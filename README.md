@@ -18,5 +18,9 @@ This project is a Power BI dashboard created for analyzing sales performance, cu
 ## Files
 - Data_Analyst_Assignment2.pbix
 
+  
+## Dashboard Preview
+- [Dashboard](dashboard.png)
+
 ## Author
 Devendra Badhe
